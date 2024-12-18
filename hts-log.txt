@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Dec 2024 12:56:18 at https://html.rrdevs.net/runok/index-3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://html.rrdevs.net/runok/index-3.html
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.rrdevs.net/runok/index-3.html -O1 "C:\Users\Web Guru\Desktop\hybrasync" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://html.rrdevs.net/runok/index-3.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:58:28	Error: 	"Not Found" (404) at link https://html.rrdevs.net/runok/assets/font/fa-v4compatibility.woff2 (from https://html.rrdevs.net/runok/assets/css/fontawesome.min.css)
+12:58:28	Error: 	"Not Found" (404) at link https://html.rrdevs.net/runok/assets/font/fa-v4compatibility.ttf (from https://html.rrdevs.net/runok/assets/css/fontawesome.min.css)
+12:58:28	Error: 	"Not Found" (404) at link https://html.rrdevs.net/runok/assets/images/loader.gif (from https://html.rrdevs.net/runok/assets/css/carouselTicker.css)
+12:58:28	Error: 	"Not Found" (404) at link https://html.rrdevs.net/runok/assets/img/cross.png (from https://html.rrdevs.net/runok/assets/css/main.css)
+12:58:28	Error: 	"Not Found" (404) at link https://html.rrdevs.net/runok/GET (from https://html.rrdevs.net/runok/assets/js/vendor/venobox.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 10 seconds : 416 links scanned, 410 files written (34354763 bytes overall) [29073247 bytes received at 223640 bytes/sec], 8383604 bytes transferred using HTTP compression in 67 files, ratio 34%, 41.6 requests per connection
+(5 errors, 0 warnings, 0 messages)
